@@ -4,3 +4,8 @@ puts "1 year : 365 days"
 time = 365 * 24
 # string + integer.to_s[change a integer to string] + string
 puts "365 days : " + time.to_s + " hours"
+
+# RESULT
+#
+# 1 year : 365 days
+# 365 days : 8760 hours
